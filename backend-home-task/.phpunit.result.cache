@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"App\\Tests\\RuleEngine\\RuleEngineTest::testHighVulnerabilityRuleTriggersNotifications":0.01000000000000000020816681711721685132943093776702880859375,"App\\Tests\\RuleEngine\\RuleEngineTest::testStuckUploadRuleOnlyFiresOnce":0}}
